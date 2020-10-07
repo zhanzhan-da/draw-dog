@@ -389,8 +389,6 @@ const string = `
   border-radius: 100%;
   left: -7%;
   top: -18%;
-}
-
-/*# sourceMappingURL=/style.97fcb138.css.map */`;
+}`;
 
 export default string;
